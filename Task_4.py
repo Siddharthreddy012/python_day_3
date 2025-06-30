@@ -5,3 +5,5 @@ print("showing third occarance of A in the given string :",f[-4])
 print("showing first occarance of N in the given string :",f[10])
 print("showing G in the given string :",f[-10])
 print("showing I in the given string :",f[-1])
+#include <stdio.h>
+
