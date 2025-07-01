@@ -1,0 +1,11 @@
+q = "USE YOUR MOBILE OPEN THE IMOBILE APP CLICK ON 'SCAN ANY QR' SCAN & PAY INSTANTLY! T&CS."
+print(q[46:59:12])
+print(q[71:76:1])
+print(q[16:20:1])
+print(q[47:51:1])
+print(q[33:36:1])
+print(q[65:83:20])
+print(q[75:78:1])
+print(q[43:45:1])
+print(q[52:54:1])
+print(q[82:85:2])
